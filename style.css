@@ -1,11 +1,18 @@
 #title {
     text-align: center;
-    color: blue;
+    color: black;
+}
+
+#main {
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
 }
 
 p {
     text-align: center;
-    color: blue;
+    color: black;
 }
 
 #image {
@@ -27,16 +34,9 @@ ul {
     line-height: 1.6;
 }
 
-
-/*
 li {
-    text-align: justify;
-    display: block;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 10px;
+    margin: 16px 0;
 }
-*/
 
 h2 {
     display: block;
