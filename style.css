@@ -1,11 +1,11 @@
-.image {
-    max-width: 60%;
-}
-
 h2 {
     text-align: center;
 }
 
 body {
     background: #eeeeee !important;
+}
+
+img {
+    display: block;
 }
